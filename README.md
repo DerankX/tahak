@@ -1,3 +1,4 @@
 # Tahak
 
-## Taháky z jazyka C
+## Taháky pro vyučování
+
